@@ -133,10 +133,7 @@ h3 {
 .btn-border-white {
   border: 1px solid #fff;
   color: white;
-}
-
-.row-p {
-  margin-bottom: 20px;
+  margin-top: 20px;
 }
 
 /*Contact*/
