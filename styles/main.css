@@ -146,14 +146,11 @@ h3 {
 #contact input,
 #contact textarea {
   padding: 10px 0 30px 0;
-  border-top: 0
-  transparent;
-  border-left: 0
-  transparent;
-  border-right: 0
-  transparent;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
   box-shadow: none;
-  border-radius: 0;
+  border-radius: 5px;
   font-size: 20px;
   color: #2c3e50;
 }
