@@ -170,8 +170,7 @@ footer {
 }
 
 .footer-up {
-  background-color:
-  #3a546d;
+  background-color: #3a546d;
   padding: 40px 0;
 }
 
@@ -179,13 +178,14 @@ footer {
   padding: 40px 0;
 }
 
-.footer-col .social i {
+.footer-col .social a i {
   width: 55px;
   padding: 15px;
   margin-left: 10px;
   border-radius: 50%;
   border: 1px solid #fff;
   font-size: 20px;
+  color: #fff;
 }
 
 .link-green {
